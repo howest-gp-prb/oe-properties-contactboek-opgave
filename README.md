@@ -10,7 +10,7 @@ In deel 1 zullen we de nodige klassen schrijven. Voeg hiervoor een nieuw "class 
 
 Deze zal 1 enkel contact voorstellen. Van een contact houden we zijn naam, adres en telefoonnumer bij in 3 properties. Deze 3 eigenschappen moeten opgevraagd en gewijzigd kunnen worden buiten de klasse `Contact`. Zorg er voor dat alle 3 de eigenschappen ingesteld kunnen worden via de constructor.
 
-### De klasse ContactBook
+### De klasse ContactCollection
 
 Deze klasse zal 1 enkel contactboek voorstellen en heeft als eigenschappen een naam (bijvoorbeeld `vrienden`, `familie` of `collega's`) die zegt welk soort contacten er in dat contactboek zitten. Daarnaast is er natuurlijk ook nog altijd een eigenschap die de lijst van contacten zelf bevat.
 
