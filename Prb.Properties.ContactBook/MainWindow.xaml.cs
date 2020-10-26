@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ContactBook.WPF
+namespace Prb.Properties.ContactBook
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
