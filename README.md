@@ -12,7 +12,7 @@ Deze zal 1 enkel contact voorstellen. Van een contact houden we zijn naam, adres
 
 ### De klasse ContactCollection
 
-Deze klasse zal 1 enkel contactboek voorstellen en heeft als eigenschappen een naam (bijvoorbeeld `vrienden`, `familie` of `collega's`) die zegt welk soort contacten er in dat contactboek zitten. Daarnaast is er natuurlijk ook nog altijd een eigenschap die de lijst van contacten zelf bevat.
+Een object van de klasse ContactCollection zal 1 enkel contactboek voorstellen en heeft als eigenschappen een naam (bijvoorbeeld `vrienden`, `familie` of `collega's`) die zegt welk soort contacten er in dat contactboek zitten. Daarnaast is er natuurlijk ook nog altijd een eigenschap die de lijst van contacten zelf bevat.
 
 Aan de constructor van deze klasse geef je enkel zijn naam mee (bijvoorbeeld `vrienden`, `familie` of `collega's`). Daarnaast moet er ook een methode voorzien worden waarmee je een contact kunt toevoegen aan het contactenboek.
 
